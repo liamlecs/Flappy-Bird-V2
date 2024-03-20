@@ -31,7 +31,7 @@ Click here to <b>DOWNLOAD</b>:
 - 🔧 A remake of Dong Nguyen's hit game "Flappy Bird" in 2013
 - 🖥️ Version for PC 
 <br><br>
-- 📚 Using the SFML library to handle game graphics
+- 📚 Used the SFML library to handle game graphics
 ---
 <h1 align="center">
         <img width="6%" src="https://user-images.githubusercontent.com/71594219/118922831-dcf76100-b964-11eb-8348-ee702ddf7064.png">
